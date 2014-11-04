@@ -9,11 +9,11 @@ duoshuo_shortname: duanhong
 google_analytics_id: # set tracking, UA-XXXX-Y.
 
 links:
-  - name:         home
+  - name:         主页
     url:          /index.html
-  - name:         about
+  - name:         关于
     url:          /about
-  - name:         RSS
+  - name:         RSS订阅
     url:          /feed.xml
 
 highlighter:      pygments
