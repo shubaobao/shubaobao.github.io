@@ -1,0 +1,23 @@
+title:            树宝宝的博客
+description:      
+url:              
+baseurl:          
+imgurl:           /images
+signoff:          DuanHong # Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+duoshuo_shortname: duanhong
+google_analytics_id: # set tracking, UA-XXXX-Y.
+
+links:
+  - name:         主页
+    url:          /index.html
+  - name:         关于
+    url:          /about
+  - name:         RSS订阅
+    url:          /feed.xml
+
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:     [autolink, tables]
